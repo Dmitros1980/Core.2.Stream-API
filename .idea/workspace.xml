@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f56c0a18-533a-4acc-8178-92607689815f" name="Changes" comment="3 commit">
+    <list default="true" id="f56c0a18-533a-4acc-8178-92607689815f" name="Changes" comment="4 commit">
       <change beforePath="$PROJECT_DIR$/../Core.Perepis naselenia/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Core.Perepis naselenia/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core.Perepis naselenia/src/Education.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core.Perepis naselenia/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core.Perepis naselenia/src/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core.Perepis naselenia/src/Sex.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,12 +25,6 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="PUSH_TAGS">
-      <GitPushTagMode>
-        <option name="argument" value="--tags" />
-        <option name="title" value="All" />
-      </GitPushTagMode>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Core.Perepis naselenia" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -47,6 +45,20 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\B\IdeaProjects(Lift)\Core.Perepis naselenia\out" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Core.Perepis naselenia." />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -77,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682171100619</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="3 commit">
+      <created>1682171285669</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1682171285669</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -95,6 +114,7 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="2 commit" />
     <MESSAGE value="3 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="3 commit" />
+    <MESSAGE value="4 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="4 commit" />
   </component>
 </project>
